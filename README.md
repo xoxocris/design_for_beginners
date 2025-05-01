@@ -1,1 +1,1 @@
-# design_for_beginners
+Hey, welcome to my project on creating a site for people looking to get into graphic design. In this site I will be providing links and resources on the basics on graphic design. All of this information will be provided for free. I can't say I am a pro at graphic design but I have used these resources which have helped me along my journey. I am hoping this will be a help to new designers.
