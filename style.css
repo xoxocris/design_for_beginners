@@ -2,6 +2,9 @@ body{
     margin:0;
     padding:0;
     background: #fafafa;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    align-items: center;
 }
 .main{
     position: relative;
@@ -126,6 +129,7 @@ body{
     text-align: center;
     align-items: center;
     justify-content: center;
+    left: -1%;
     
 }
 .main .heading .btns a{
